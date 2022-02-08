@@ -7,3 +7,7 @@ print(array)
 array.remove(at: 0)
 array.append(90000)
 print(array)
+
+var numberOfFriends: Int = 5
+numberOfFriends += 10
+print(numberOfFriends)
